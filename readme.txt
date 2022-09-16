@@ -1,3 +1,5 @@
+jenkins along with node, angular and python3
+
 use start.sh to start jenkins on port 8080
 
 OR
